@@ -1,2 +1,2 @@
-# hacktoday
-hacktoday - Easier way to kick off open source contribtution
+# Hacktoday.io
+hacktoday.io - Easier way to kick off open source contribtution
